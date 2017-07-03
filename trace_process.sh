@@ -51,6 +51,3 @@ trace_process()
 }
 
 trace_process
-#output=`trace_process`
-#
-#echo $output >> /root/syslog.monitor
