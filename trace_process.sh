@@ -3,6 +3,7 @@
 # trace_process: 
 # function to track which process invoked this script
 # and print its "process call stack"
+# Author: Allen Fang <iamfy000@gmail.com>
 #
 
 getParentPID()
